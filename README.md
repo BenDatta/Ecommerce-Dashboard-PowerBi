@@ -9,7 +9,8 @@ In this report, I present a comprehensive analysis of financial data using Power
 
 You can have a live demonstration of the Dashboard
 
-<iframe title="Ecommerce Sales" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=85e3acaf-38e9-411f-9828-652d632696ba&autoAuth=true&ctid=3bc9111a-cd25-445e-9125-e44a47ec1b9b" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiMDhlNGU0ZmQtMWJlMC00M2NlLThhM2YtZTQ5ZjM0NDRkODAzIiwidCI6IjNiYzkxMTFhLWNkMjUtNDQ1ZS05MTI1LWU0NGE0N2VjMWI5YiIsImMiOjh9&embedImagePlaceholder=true
+
 
 
 <img width="602" alt="Ecommerce Dashboard" src="https://github.com/BenDatta/Ecommerce-Dashboard-PowerBi/assets/135694513/c19e1b2d-9bbf-460a-87a6-5a16490ac8e9">
