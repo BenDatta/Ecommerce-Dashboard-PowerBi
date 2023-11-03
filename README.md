@@ -12,8 +12,8 @@ You can have a live demonstration of the Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiMDhlNGU0ZmQtMWJlMC00M2NlLThhM2YtZTQ5ZjM0NDRkODAzIiwidCI6IjNiYzkxMTFhLWNkMjUtNDQ1ZS05MTI1LWU0NGE0N2VjMWI5YiIsImMiOjh9&embedImagePlaceholder=true
 
 
+<img width="602" alt="Ecommerce Dashboard" src="https://github.com/BenDatta/Ecommerce-Dashboard-PowerBi/assets/135694513/a2ff953b-2c47-4561-bc9e-54600461583b">
 
-<img width="602" alt="Ecommerce Dashboard" src="https://github.com/BenDatta/Ecommerce-Dashboard-PowerBi/assets/135694513/c19e1b2d-9bbf-460a-87a6-5a16490ac8e9">
 
 Trends and Insights:
 
